@@ -25,7 +25,7 @@ The dataset was collected from anonymized hospital records, detailing prescripti
 <h2>🔧 Tools and Technologies</h2>
 <ul>
   <li><strong>Programming:</strong> Python (Pandas, NumPy, Matplotlib, Seaborn)</li>
-  <li><strong>Visualization:</strong> Plotly, Tableau</li>
-  <li><strong>Statistical Analysis:</strong> SciPy, Statsmodels</li>
+  <li><strong>Visualization:</strong> Plotly</li>
+  <li><strong>Statistical Analysis:</strong> SciPy</li>
   <li><strong>Environment:</strong> Jupyter Notebooks</li>
 </ul>
